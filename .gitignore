@@ -1,0 +1,5 @@
+# next.js build files
+.next
+
+# node_modules
+node_modules
